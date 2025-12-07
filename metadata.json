@@ -1,0 +1,7 @@
+{
+  "name": "Snap-to-Spec",
+  "description": "An AI-powered repair assistant that identifies broken household items from images and generates step-by-step repair guides.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
