@@ -117,4 +117,4 @@ Deploy the `dist/` output to any static host (Vercel, Netlify, Azure Static Web 
 
 ## License
 
-This project inherits the license of the parent repository. Add one if you plan to release publicly.
+[LICENSE](LICENSE)
