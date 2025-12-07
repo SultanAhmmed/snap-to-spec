@@ -1,6 +1,6 @@
 <div align="center">
-  <img width="1200" height="475" alt="Before" src="https://github.com/SultanAhmmed/snap-to-space/assets/before_result.png" />
-  <img width="1200" height="475" alt="After" src="https://github.com/SultanAhmmed/snap-to-space/assets/after_result.png" />
+  <img width="1200" height="475" alt="Before" src="https://github.com/SultanAhmmed/snap-to-spec/blob/main/assets/before_result.png" />
+  <img width="1200" height="475" alt="After" src="https://github.com/SultanAhmmed/snap-to-spec/blob/main/assets/after_result.png" />
 
   <h1>Snap-to-Spec</h1>
   <p><strong>Point your camera at a broken item and get an instant, AI-generated repair guide.</strong></p>
